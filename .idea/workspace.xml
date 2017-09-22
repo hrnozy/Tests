@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10e62986-7ba5-4747-9d6e-224bc925cd13" name="Default" comment="" />
+    <list default="true" id="10e62986-7ba5-4747-9d6e-224bc925cd13" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AllTests/src/test/java/TestHarun.java" afterPath="$PROJECT_DIR$/AllTests/src/test/java/TestHarun.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/N11Tests/target/" />
     <ignored path="$PROJECT_DIR$/AllTests/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/AllTests/src/test/java/TestHarun.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -251,12 +253,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506086455751</updated>
-      <workItem from="1506086456985" duration="777000" />
+      <workItem from="1506086456985" duration="910000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="777000" />
+    <option name="totallyTimeSpent" value="910000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -336,7 +338,7 @@
     <entry file="file://$PROJECT_DIR$/AllTests/src/test/java/TestHarun.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
