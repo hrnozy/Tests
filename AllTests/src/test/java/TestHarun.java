@@ -1,3 +1,5 @@
+import io.github.bonigarcia.wdm.ChromeDriverManager;
+import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.By;
@@ -12,7 +14,9 @@ public class TestHarun {
     @Test
     public void shouldLoginWithFacebook() throws InterruptedException {
 
-        System.setProperty("webdriver.chrome.driver", "/Users/user/Downloads/chromedriver");
+        //System.setProperty("webdriver.chrome.driver", "/Users/user/Downloads/chromedriver");
+
+        ChromeDriverManager.getInstance().setup();
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.n11.com/");
         driver.manage().window().maximize();
