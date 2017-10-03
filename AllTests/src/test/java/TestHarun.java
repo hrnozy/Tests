@@ -95,7 +95,7 @@ public class TestHarun {
         String errorMessage = "Please re-enter your password";
         Assert.assertTrue("When a buyer enter false password", errorMessage.contains("Please re-enter your password"));
 
-        return;
+        driver.quit();
 
 
     }
