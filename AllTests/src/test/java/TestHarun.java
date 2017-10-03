@@ -4,12 +4,16 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import java.net.URL;
+
 public class TestHarun {
 
     //Scenerio 1
     @Test
     public void shouldLoginWithFacebook() throws InterruptedException {
 
+        ClassLoader loader = ClassLoader.getSystemClassLoader();
+        URL path = loader.getResource("chromedriver");
         System.setProperty("webdriver.chrome.driver", "/Users/user/Downloads/chromedriver");
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.n11.com/");
