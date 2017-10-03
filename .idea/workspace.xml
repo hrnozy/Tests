@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10e62986-7ba5-4747-9d6e-224bc925cd13" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AllTests/AllTests.iml" afterPath="$PROJECT_DIR$/AllTests/AllTests.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AllTests/.idea/workspace.xml" afterPath="$PROJECT_DIR$/AllTests/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/N11Tests/target/" />
     <ignored path="$PROJECT_DIR$/AllTests/target/" />
