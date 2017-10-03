@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10e62986-7ba5-4747-9d6e-224bc925cd13" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AllTests/.idea/workspace.xml" afterPath="$PROJECT_DIR$/AllTests/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="10e62986-7ba5-4747-9d6e-224bc925cd13" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/N11Tests/target/" />
     <ignored path="$PROJECT_DIR$/AllTests/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,7 +74,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -89,41 +87,7 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AllTests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AllTests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AllTests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AllTests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
