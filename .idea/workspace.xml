@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="10e62986-7ba5-4747-9d6e-224bc925cd13" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AllTests/.idea/workspace.xml" afterPath="$PROJECT_DIR$/AllTests/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AllTests/src/test/java/TestHarun.java" afterPath="$PROJECT_DIR$/AllTests/src/test/java/TestHarun.java" />
     </list>
     <ignored path="$PROJECT_DIR$/N11Tests/target/" />
     <ignored path="$PROJECT_DIR$/AllTests/target/" />
@@ -68,8 +69,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="-1080" />
     <option name="width" value="1920" />
-    <option name="height" value="1200" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -334,7 +336,7 @@
     <option name="totallyTimeSpent" value="5603000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
+    <frame x="0" y="-1080" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
