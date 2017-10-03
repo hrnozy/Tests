@@ -12,8 +12,6 @@ public class TestHarun {
     @Test
     public void shouldLoginWithFacebook() throws InterruptedException {
 
-        ClassLoader loader = ClassLoader.getSystemClassLoader();
-        URL path = loader.getResource("chromedriver");
         System.setProperty("webdriver.chrome.driver", "/Users/user/Downloads/chromedriver");
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.n11.com/");
