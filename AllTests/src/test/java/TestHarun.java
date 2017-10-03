@@ -15,7 +15,7 @@ public class TestHarun {
     public void shouldLoginWithFacebook() throws InterruptedException {
 
         //System.setProperty("webdriver.chrome.driver", "/Users/user/Downloads/chromedriver");
-        System.setProperty("webdriver.chrome.driver", "src/main/resources/geckodriver");
+        System.setProperty("webdriver.chrome.driver", "src/main/resources/chromedriver");
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.n11.com/");
         driver.manage().window().maximize();
