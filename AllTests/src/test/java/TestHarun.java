@@ -60,7 +60,7 @@ public class TestHarun {
         driver.get("https://www.n11.com/yazarlar/A?pg=2");
         Assert.assertTrue("In page 2", driver.findElements(By.xpath("//li[contains(text(), '" + lastAuthorAInPage1 + "')]")).size() == 0);//1. sayfadaki son yazar 2. sayfada olmayacağından size 0'a eşitlendi.
 
-        return;
+        driver.quit();
 
 
     }

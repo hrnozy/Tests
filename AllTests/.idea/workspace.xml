@@ -15,8 +15,8 @@
       <file leaf-file-name="TestHarun.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestHarun.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="16" column="54" lean-forward="false" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+            <state relative-caret-position="835">
+              <caret line="62" column="22" lean-forward="true" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -233,7 +233,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1507007729189</updated>
-      <workItem from="1507007730358" duration="514000" />
+      <workItem from="1507007730358" duration="592000" />
     </task>
     <servers />
   </component>
@@ -244,9 +244,12 @@
     <history-entry file="TestHarun_shouldLoginWithFacebook - 2017.10.03 at 08h 23m 53s.xml">
       <configuration name="TestHarun.shouldLoginWithFacebook" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestHarun_shouldLoginWithFacebook - 2017.10.03 at 08h 25m 08s.xml">
+      <configuration name="TestHarun.shouldLoginWithFacebook" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="514000" />
+    <option name="totallyTimeSpent" value="592000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -294,8 +297,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/TestHarun.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="16" column="54" lean-forward="false" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+        <state relative-caret-position="835">
+          <caret line="62" column="22" lean-forward="true" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
