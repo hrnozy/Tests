@@ -16,8 +16,8 @@ public class TestHarun {
 
 
         //System.setProperty("webdriver.chrome.driver", "/Users/user/Downloads/chromedriver");
-        System.out.println("yol : " + System.getProperty("user.dir") + "/src/main/resources/chromedriver");
-        System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "/src/main/resources/chromedriver");
+        System.out.println("yol : " + System.getProperty("user.dir") + "/src/main/resources/chromedriverForLinux");
+        System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "/src/main/resources/chromedriverForLinux");
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.n11.com/");
         driver.manage().window().maximize();
