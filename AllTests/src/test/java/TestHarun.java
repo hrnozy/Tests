@@ -5,6 +5,7 @@ import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 
 import java.net.URL;
 
@@ -16,9 +17,9 @@ public class TestHarun {
 
 
         //System.setProperty("webdriver.chrome.driver", "/Users/user/Downloads/chromedriver");
-        System.out.println("yol : " + System.getProperty("user.dir") + "/src/main/resources/chromedriverForLinux");
-        System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "/src/main/resources/chromedriverForLinux");
-        WebDriver driver = new ChromeDriver();
+        System.out.println("yol : " + System.getProperty("user.dir") + "/src/main/resources/geckodriver");
+        System.setProperty("webdriver.gecko.driver", System.getProperty("user.dir") + "/src/main/resources/geckodriver");
+        WebDriver driver = new FirefoxDriver();
         driver.get("https://www.n11.com/");
         driver.manage().window().maximize();
         driver.findElement(By.className("btnSignIn")).click();
