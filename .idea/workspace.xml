@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10e62986-7ba5-4747-9d6e-224bc925cd13" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AllTests/src/main/resources/geckodriver" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AllTests/src/test/java/TestHarun.java" afterPath="$PROJECT_DIR$/AllTests/src/test/java/TestHarun.java" />
-    </list>
+    <list default="true" id="10e62986-7ba5-4747-9d6e-224bc925cd13" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/N11Tests/target/" />
     <ignored path="$PROJECT_DIR$/AllTests/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -317,7 +313,7 @@
       <workItem from="1506964665413" duration="185000" />
       <workItem from="1507047875782" duration="73000" />
       <workItem from="1507047972350" duration="132000" />
-      <workItem from="1507291979123" duration="1593000" />
+      <workItem from="1507291979123" duration="1773000" />
     </task>
     <servers />
   </component>
@@ -354,7 +350,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8535000" />
+    <option name="totallyTimeSpent" value="8715000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
