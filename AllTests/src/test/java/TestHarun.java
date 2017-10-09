@@ -73,8 +73,8 @@ public class TestHarun {
     @Test
     public void failLogin() throws InterruptedException {
 
-        System.setProperty("webdriver.chrome.driver", "src/main/resources/chromedriver");
-        WebDriver driver = new ChromeDriver();
+        System.setProperty("webdriver.gecko.driver", "src/main/resources/geckodriver");
+        WebDriver driver = new FirefoxDriver();
         driver.get("https://www.n11.com/");
         driver.manage().window().maximize();
         driver.findElement(By.className("btnSignIn")).click();
