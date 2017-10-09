@@ -5,17 +5,20 @@ import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxBinary;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxProfile;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
+import java.io.File;
 import java.net.URL;
+
 
 public class TestHarun {
 
     //Scenerio 1
     @Test
     public void shouldLoginWithFacebook() throws InterruptedException {
-
 
         //System.setProperty("webdriver.chrome.driver", "/Users/user/Downloads/chromedriver");
         System.out.println("yol : " + System.getProperty("user.dir") + "/src/main/resources/geckodriver");
